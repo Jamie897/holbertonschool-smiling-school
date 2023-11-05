@@ -1,6 +1,13 @@
-. {
-    background: url(/images/pic_1.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+:root {
+    --button-hover-active-opacity: 0.9;
+    --main-font-family: "Source Sans Pro", sans-serif;
+    --secondary-font-family: "Spin Cycle", sans-serif;
+    --main-thematic-color: #c271ff;
+    --main-text-color: white;
+    --nav-lr-margin: 10vw
+  }
+
+ .image-adjust {
+    width: 150px;
+    height: 150px;
+ }
