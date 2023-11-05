@@ -11,3 +11,12 @@
     width: 150px;
     height: 150px;
  }
+
+ .btn-custom {
+    background-color:#c271ff;
+    color: white;
+ }
+
+ .text-custom {
+    color:#c271ff;
+ }
