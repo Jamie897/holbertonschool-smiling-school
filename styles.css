@@ -45,11 +45,14 @@
     color:#c271ff;
  }
 
- .carousel-slide {
-    background-color:#c271ff
-    color: white;
-    height: 40vh;
+ .background-image {
+    background-image: url(/images/pic_1.jpg);
+    background-size: cover; /* Adjust as needed */
+    background-repeat: no-repeat; /* Adjust as needed */
+    /* Add other styles or properties as required */
   }
 
- 
+ .purple-background {
+    background-color:#c271ff;
+ }
 
