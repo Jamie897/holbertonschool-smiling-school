@@ -4,7 +4,9 @@
     --secondary-font-family: "Spin Cycle", sans-serif;
     --main-thematic-color: #c271ff;
     --main-text-color: white;
-    --nav-lr-margin: 10vw
+    --nav-lr-margin: 10vw;
+    --dark-blue: #071629;
+  --checkmark-green: #82d24f;
   }
 
   body {
@@ -43,4 +45,11 @@
     color:#c271ff;
  }
 
+ .carousel-slide {
+    background-color:#c271ff
+    color: white;
+    height: 40vh;
+  }
+
  
+
