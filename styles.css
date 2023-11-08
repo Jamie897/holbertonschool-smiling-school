@@ -84,10 +84,10 @@ figcaption {
 
 
 .carolarrow {
-    height: 50%;
+    height: 20%;
 }
 .tutorials {
-    height: 90vh;
+    height: 100vh;
 }
 .play-btn{
     display: absolute !important;
@@ -110,7 +110,7 @@ figcaption {
 }
 .membership {
     background-color: #071629;
-    height: 60vh;
+    height: 50vh;
 }
 .memb-item{
     width:40%;
