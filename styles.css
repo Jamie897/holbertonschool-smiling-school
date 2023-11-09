@@ -9,9 +9,9 @@ html {
   }
   
   .btn {
-    background-color: #C271FF !important;
-    border-color: #C271FF !important;
-    border-radius: 20px !important;
+    background-color: #C271FF;
+    border-color: #C271FF;
+    border-radius: 20px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
   }
   
